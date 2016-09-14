@@ -98,3 +98,11 @@ shape <- readOGR(dsn = ".", layer = "C:/workspace/some.shp")
    products: R Studio, R Studio Server, R Shiny, etc.
  - The R Consortium is a collaboration of all the above plus Microsoft,
    Google, Oracle, HP, etc.
+
+
+
+## Other integrations
+
+ - git integration for projects in R-Studio
+ - packages can be installed from GitHub as well as CRAN
+ - support for parallel processing available in various environments
